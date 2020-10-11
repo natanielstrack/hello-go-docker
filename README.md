@@ -7,5 +7,5 @@ golang             |1.15               |05c8f6d2538a       |4 weeks ago        |
 golang             |alpine             |b3bc898ad092       |4 weeks ago        |300MB
 
 * golang:1.15 is the biggest
-* goland:alpine is half the size
+* goland:alpine is less than half the size
 * multistaging building just copying the binarys to a scratch images is crazy small
